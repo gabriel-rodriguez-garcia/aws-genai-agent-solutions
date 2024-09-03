@@ -8,4 +8,3 @@ Incuded Solutions are:
 - Essay Writer Agent
 - Insurance Claims Agent
 - Weather Agent
-- Web Search Agent
