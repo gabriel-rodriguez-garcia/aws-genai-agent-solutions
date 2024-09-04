@@ -6,5 +6,5 @@ Incuded Solutions are:
 
 - Restaurant Booking Agent
 - Essay Writer Agent
-- Insurance Claims Agent
+- Insurance Claims Agent (coming soon)
 - Weather Agent
